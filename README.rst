@@ -28,7 +28,7 @@ Assisted the aero dynamics team at Toro Rosso F1 deliver significant quanities o
 | **Senior Software Engineer (Contract) – University of Oxford**
 | **January 2016 - August 2016 (3 renewals)**
 
-Worked as a consultant senior software engineer at the Bodleian Library to assist the organisation in migrating its publication platform to a new architecture, using Python, RabbitMQ, Linux, Git, Jenkins.
+| Worked as a consultant senior software engineer at the Bodleian Library to assist the organisation in migrating its publication platform to a new architecture, using Python, RabbitMQ, Linux, Git, Jenkins.
 
 - Used Python, XML, Solr, SPARQL to build a family of loosely coupled modules that formed part of a message-driven workflow, enabling both engineers, and end users, to publish and index content.
 
