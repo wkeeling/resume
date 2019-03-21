@@ -24,7 +24,7 @@ Professional Experience
 
 
 
-
+|
 | **Senior Software Engineer (Contract) – University of Oxford**
 | **January 2016 - August 2016 (3 renewals)**
 |
