@@ -21,7 +21,34 @@ Professional Experience
 | **October 2016 - March 2019 (4 renewals)**
 |
 | Assisted the aero dynamics team at Toro Rosso F1 deliver significant quanities of aero simulation (CFD) data to users, by developing a large, single-page web application in Python/Django, KnockoutJS, PostgreSQL, Celery, Docker.
+| 
+| **Key activities**
 
+- Liaising with stakeholders, other teams to define and understand requirements.
+
+- Reviewing team code, flagging potential issues, testing and merging pull requests.
+
+- Resolving operational issues under pressure, analysing logs, inspecting processes, monitoring SQL.
+
+- Improving robustness through:
+
+  - Building up comprehensive test coverage, integrating with CI.
+  - Reworking long running Celery tasks to support auto-restart.
+  - Introducing retry functionality into REST clients to tolerate outages.
+  - Reviewing and addressing errors logged in Sentry.
+  - Retaining team knowledge by introducing a wiki
+
+- Optimising performance through:
+
+  - Identifying slow SQL queries, updating Django ORM code.
+  - Monitoring and restructuring Celery queues.
+  - Parellising data ingestion from serial filesystem access.
+
+- Creating a predictable, low risk release process by reducing to a single Make command, automating with Docker.
+
+- Reducing error prone workflows by replacing manual command-line operations with web UIs.
+
+- Mentoring interns.
 
 
 |
@@ -33,19 +60,19 @@ Professional Experience
 
 - Used Python, XML, Solr, SPARQL to build a family of loosely coupled modules that formed part of a message-driven workflow, enabling both engineers, and end users, to publish and index content.
 
+- Used an iterative approach to migrate content prior to the migration date, allowing issues to be flushed out ahead of time so that the ultimate migration went smoothly and successfully for the business.
+
 | **Senior Software Engineer (Contract) – Jaguar Landrover**
 | **May 2015 - December 2015 (2 renewals)**
 |
 | Worked at Jaguar Landrover Research on the Self Learning Car (SLC). The SLC system learns patterns of driver behaviour and can automatically activate in-car features depending upon who is driving the vehicle.
 |
 
-- Used Python to implement a prototype of the “self-learning climate” feature for the SLC. Successfully delivered the prototype into user trials, allowing the business to evaluate the concept, make refinements and ultimately decide upon its applicability for production road cars.
-
-- Analysed the data coming out of the cars in the user trial and making appropriate refinements. For example, refining the nearest neighbour algorithm to ensure heated seat activation, even if no immediate data available.
+- Used Python/JSON/REST to implement a prototype of the "self-learning climate" feature for the SLC. Successfully delivered the prototype into user trials, allowing the business to evaluate the concept, make refinements and ultimately decide upon its applicability for production road cars.
 
 - Used an incremental test-driven approach to develop the feature with regular in-car demonstrations to stakeholders, showcasing new functionality and gathering feedback.
 
-- Responsible for the implementation of the Smart Traffic Alerts feature into the SLC. This feature, written in Python and Javascript/JQuery, displayed a map on the car’s dashboard when traffic problems were detected ahead. It interacted with the Google Maps Directions API and Bing Routes API.
+- Responsible for the implementation of the Smart Traffic Alerts feature into the SLC. This feature, written in Python and Javascript/JQuery, displayed a map on the car's dashboard when traffic problems were detected ahead. It interacted with the Google Maps Directions API and Bing Routes API.
 
 | **Senior Software Engineer (Contract) – ARM**
 | **February 2014 – April 2015 (3 renewals)**
@@ -53,11 +80,11 @@ Professional Experience
 | Worked with a team of GPU performance engineers helping them and their customers visualise performance data by creating a data-driven, single page web application, using AngularJS, Python and MongoDB.
 |
 
-- Responsible for the design and development of the UI and the Python backends, creating charts and other visualisations in AngularJS/HTML5/Bootstrap and third-party libraries such as Pandas.
+- Responsible for the design and development of the UI and Python backend, creating charts and other visualisations using AngularJS/HTML5/Bootstrap/Pandas.
 
-- Worked in two-weekly iterative cycles to consistently deliver new features on time and within the estimates given in sprint planning meetings – using an automated deployment process for regular releases to production.
+- Worked in two-weekly iterations to consistently deliver new features on time and within the estimates given in sprint planning meetings – using an automated deployment process for regular releases to production.
 
-- Collaborated closely with domain experts on the team to ensure that complex data was visually conveyed in a clear and consistent way, appropriate for an audience consisting of both engineers and management.
+- Collaborated closely with domain experts on the team to ensure that complex data was conveyed in a clear and consistent way, appropriate for an audience consisting of both engineers and management.
 
 - Ensured consistently good UI performance with large quantities of data through:
 
@@ -66,7 +93,7 @@ Professional Experience
   - identification of hotspots in the JavaScript/Python code using browser developer tools and Python cProfile
   - keeping the AngularJS digest cycle lightweight – e.g. using one-time bindings where appropriate
 
-- Introduced a suite of frontend and backend automated tests using Jasmine, PyTest and Jenkins. Encouraged other developers to participate in writing tests and improve coverage by advocating the benefits of testing.
+- Introduced a suite of frontend and backend automated tests using Jasmine, PyTest and Jenkins. Encouraged other developers to participate in writing tests and improve coverage by advocating the benefits of testing. This helped to reduce the number of post-release "hotfixes" and gave developers more confidence in undertaking code restructuring.
 
 | **Senior Software Engineer (Contract) – Nominet**
 | **July 2013 – October 2013**
@@ -76,7 +103,8 @@ Professional Experience
 | **Senior Software Engineer (Contract) – Oxford University Press**
 | **April 2012 – March 2013 (2 renewals)**
 |
-| Involved in the development of the Enterprise Access Control (EAC) single sign-on system - a large Spring/Hibernate/JEE web application being integrated with existing websites across the organisation.
+| Involved in the development of the Enterprise Access Control (EAC) single sign-on system - a large Spring/Hibernate/JEE web application integrated with existing websites across the organisation.
+|
 
 - Worked as part of a small team of experienced developers with an iterative and disciplined approach to development. Used test driven development, continuous integration and automated deployments to deliver predictable, low risk releases of working software into production at regular intervals.
 
@@ -88,9 +116,11 @@ Professional Experience
 | Cellmark is a provider of DNA testing forensic and paternity services. Its customers include UK police forces, the Home Office and other government agencies.
 |
 
-- Designed and developed a Spring/Hibernate web application for drug testing of hair samples for the toxicology department. Used OO principles to design a cohesive and loosely coupled object model through close collaboration with end users. This model, together with an iterative, test driven approach to development, enabled both the team and the application to adapt to changing requirements.
+- Ground-up design of a Spring/Hibernate web application for drug testing of hair samples. Established a central object model through close collaboration with end users. This model, together with an iterative, test driven approach to development, enabled both the team and the application to adapt to changing requirements.
 
-- Troubleshooting technical problems in production and improving the robustness of applications - enhancing the team's overall standing within the wider business.
+- Provided development expertise to enable the timely delivery of a late running web-based Spring/Hibernate DNA paternity project. Reduced regression and a high defect detection rate by introducing a rich suite of business-driven Selenium acceptance tests into the build.
+
+- Identified and resolved longstanding production problems - enhancing the team's standing within the wider business.
 
 | **Senior Software Engineer (Contract) – Wiley Publishing**
 | **December 2009 – April 2010**
@@ -101,12 +131,21 @@ Professional Experience
 | **Senior Software Engineer (Contract) – Nortel Networks**
 | **December 2009 – April 2010 (7 renewals)**
 |
+
+Responsible for the design and development of Vodafone’s pay-as-you-go phone top-up and registration service using Java, Spring, Spring-MVC, JMS in a clustered multi-tier architecture.
+
 | **Senior Software Engineer (Contract) – Mobile IQ**
 | **January 2006 – March 2007 (5 renewals)**
 |
+
+Involved in the design and development of Mobile IQ’s Spring/Hibernate content delivery platform, and the technical lead for the integration of Channel 4’s content feed into the mobile portals of Vodafone and O2.
+
 | **Senior Software Engineer – Volantis Limited**
 | **April 2004 – December 2005**
 |
+
+Responsible for the development of Channel 4’s mobile web portal for the launch of Big Brother 5. Development of the mobile portal homepage for the BBC Olympics.
+
 | **Software Support Engineer – Elata Limited**
 | **October 2002 – April 2004**
 |
