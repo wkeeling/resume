@@ -29,6 +29,7 @@ Professional Experience
 | **January 2016 - August 2016 (3 renewals)**
 |
 | Worked as a consultant senior software engineer at the Bodleian Library to assist the organisation in migrating its publication platform to a new architecture, using Python, RabbitMQ, Linux, Git, Jenkins.
+|
 
 - Used Python, XML, Solr, SPARQL to build a family of loosely coupled modules that formed part of a message-driven workflow, enabling both engineers, and end users, to publish and index content.
 
@@ -36,6 +37,7 @@ Professional Experience
 | **May 2015 - December 2015 (2 renewals)**
 |
 | Worked at Jaguar Landrover Research on the Self Learning Car (SLC). The SLC system learns patterns of driver behaviour and can automatically activate in-car features depending upon who is driving the vehicle.
+|
 
 - Used Python to implement a prototype of the “self-learning climate” feature for the SLC. Successfully delivered the prototype into user trials, allowing the business to evaluate the concept, make refinements and ultimately decide upon its applicability for production road cars.
 
@@ -44,3 +46,82 @@ Professional Experience
 - Used an incremental test-driven approach to develop the feature with regular in-car demonstrations to stakeholders, showcasing new functionality and gathering feedback.
 
 - Responsible for the implementation of the Smart Traffic Alerts feature into the SLC. This feature, written in Python and Javascript/JQuery, displayed a map on the car’s dashboard when traffic problems were detected ahead. It interacted with the Google Maps Directions API and Bing Routes API.
+
+| **Senior Software Engineer (Contract) – ARM**
+| **February 2014 – April 2015 (3 renewals)**
+|
+| Worked with a team of GPU performance engineers helping them and their customers visualise performance data by creating a data-driven, single page web application, using AngularJS, Python and MongoDB.
+|
+
+- Responsible for the design and development of the UI and the Python backends, creating charts and other visualisations in AngularJS/HTML5/Bootstrap and third-party libraries such as Pandas.
+
+- Worked in two-weekly iterative cycles to consistently deliver new features on time and within the estimates given in sprint planning meetings – using an automated deployment process for regular releases to production.
+
+- Collaborated closely with domain experts on the team to ensure that complex data was visually conveyed in a clear and consistent way, appropriate for an audience consisting of both engineers and management.
+
+- Ensured consistently good UI performance with large quantities of data through:
+
+  - use of caching at different levels within the architecture
+  - use of Python sub-processes to manage server-side memory usage
+  - identification of hotspots in the JavaScript/Python code using browser developer tools and Python cProfile
+  - keeping the AngularJS digest cycle lightweight – e.g. using one-time bindings where appropriate
+
+- Introduced a suite of frontend and backend automated tests using Jasmine, PyTest and Jenkins. Encouraged other developers to participate in writing tests and improve coverage by advocating the benefits of testing.
+
+| **Senior Software Engineer (Contract) – Nominet**
+| **July 2013 – October 2013**
+|
+| A short contract working at Nominet, the UK domain name registrar to adapt their Java based systems for the switch to direct .UK domains.
+|
+| **Senior Software Engineer (Contract) – Oxford University Press**
+| **April 2012 – March 2013 (2 renewals)**
+|
+| Involved in the development of the Enterprise Access Control (EAC) single sign-on system - a large Spring/Hibernate/JEE web application being integrated with existing websites across the organisation.
+
+- Worked as part of a small team of experienced developers with an iterative and disciplined approach to development. Used test driven development, continuous integration and automated deployments to deliver predictable, low risk releases of working software into production at regular intervals.
+
+- Drove the development of a rich UI for the web-based administration tool using JQuery, AJAX, CSS and JSON - and created reusable widgets for other developers to pick up and use.
+
+| **Senior Software Engineer/Consultant (Contract) – Cellmark**
+| **Apr 2010 – Mar 2012, Apr 2013 – Jul 2013 (2 contracts, 6 renewals)**
+|
+| Cellmark is a provider of DNA testing forensic and paternity services. Its customers include UK police forces, the Home Office and other government agencies.
+|
+
+- Designed and developed a Spring/Hibernate web application for drug testing of hair samples for the toxicology department. Used OO principles to design a cohesive and loosely coupled object model through close collaboration with end users. This model, together with an iterative, test driven approach to development, enabled both the team and the application to adapt to changing requirements.
+
+- Troubleshooting technical problems in production and improving the robustness of applications - enhancing the team's overall standing within the wider business.
+
+| **Senior Software Engineer (Contract) – Wiley Publishing**
+| **December 2009 – April 2010**
+|
+| A short contract working in an XP environment on the development of Wiley’s Online Library.
+|
+
+| **Senior Software Engineer (Contract) – Nortel Networks**
+| **December 2009 – April 2010 (7 renewals)**
+|
+| **Senior Software Engineer (Contract) – Mobile IQ**
+| **January 2006 – March 2007 (5 renewals)**
+|
+| **Senior Software Engineer – Volantis Limited**
+| **April 2004 – December 2005**
+|
+| **Software Support Engineer – Elata Limited**
+| **October 2002 – April 2004**
+|
+| **Software Engineer – Softwright Limited**
+| **November 2000 – October 2002**
+|
+| **IT Consultant – Logica**
+| **June 1998 – November 2000**
+
+Education
+---------
+
+| **Degree (1994 - 1997) - B.Sc. ARSM (Hons) - Class 2:1**
+| Imperial College of Science, Technology and Medicine
+|
+| **A Level	 (1992 - 1994)**
+| **GCSE (1990 - 1992)**
+| Hinchingbrooke School, Huntingdon, Cambs
