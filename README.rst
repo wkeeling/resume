@@ -22,20 +22,20 @@ Professional Experience
 |
 | Assisted the aero dynamics team at Toro Rosso F1 deliver significant quanities of aero simulation (CFD) data to users, by developing a large, single-page web application in Python/Django, KnockoutJS, PostgreSQL, Celery, Docker.
 
-**Key activities:**
+
 
 
 | **Senior Software Engineer (Contract) – University of Oxford**
 | **January 2016 - August 2016 (3 renewals)**
-
-Worked as a consultant senior software engineer at the Bodleian Library to assist the organisation in migrating its publication platform to a new architecture, using Python, RabbitMQ, Linux, Git, Jenkins.
+|
+| Worked as a consultant senior software engineer at the Bodleian Library to assist the organisation in migrating its publication platform to a new architecture, using Python, RabbitMQ, Linux, Git, Jenkins.
 
 - Used Python, XML, Solr, SPARQL to build a family of loosely coupled modules that formed part of a message-driven workflow, enabling both engineers, and end users, to publish and index content.
 
 | **Senior Software Engineer (Contract) – Jaguar Landrover**
 | **May 2015 - December 2015 (2 renewals)**
-
-Worked at Jaguar Landrover Research on the Self Learning Car (SLC). The SLC system learns patterns of driver behaviour and can automatically activate in-car features depending upon who is driving the vehicle.
+|
+| Worked at Jaguar Landrover Research on the Self Learning Car (SLC). The SLC system learns patterns of driver behaviour and can automatically activate in-car features depending upon who is driving the vehicle.
 
 - Used Python to implement a prototype of the “self-learning climate” feature for the SLC. Successfully delivered the prototype into user trials, allowing the business to evaluate the concept, make refinements and ultimately decide upon its applicability for production road cars.
 
