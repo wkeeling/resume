@@ -129,7 +129,6 @@ Professional Experience
 |
 | A short contract working in an XP environment on the development of Wiley’s Online Library.
 |
-|
 | **Senior Software Engineer (Contract) – Nortel Networks**
 | **December 2009 – April 2010 (7 renewals)**
 |
