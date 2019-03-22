@@ -17,7 +17,6 @@ Skills Summary
 Professional Experience
 -----------------------
 
-|
 | **Senior Software Engineer (Contract) – Toro Rosso Formula 1**
 | **October 2016 - March 2019 (4 renewals)**
 |
