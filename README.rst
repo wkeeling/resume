@@ -17,14 +17,14 @@ Skills Summary
 Professional Experience
 -----------------------
 
-| **Senior Software Engineer (Contract) – Toro Rosso Formula 1 Team**
+| **Senior Software Engineer (Contract) – Toro Rosso Formula 1**
 | **October 2016 - March 2019 (4 renewals)**
 |
 | Assisted the aero dynamics team at Toro Rosso F1 deliver significant quanities of aero simulation (CFD) data to users, by developing a large, single-page web application in Python/Django, KnockoutJS, PostgreSQL, Celery, Docker.
 | 
-| **Key activities**
+| **Key activities:**
 
-- Liaising with stakeholders, other teams to define and understand requirements.
+- Liaising with domain experts and other teams to define and understand requirements.
 
 - Reviewing team code, flagging potential issues, testing and merging pull requests.
 
@@ -36,22 +36,21 @@ Professional Experience
   - Reworking long running Celery tasks to support auto-restart.
   - Introducing retry functionality into REST clients to tolerate outages.
   - Reviewing and addressing errors logged in Sentry.
-  - Retaining team knowledge by introducing a wiki
+  - Retaining team knowledge by introducing a wiki.
 
 - Optimising performance through:
 
-  - Identifying slow SQL queries, updating Django ORM code.
+  - Identifying slow SQL queries, modifying Django ORM code.
   - Monitoring and restructuring Celery queues.
   - Parellising data ingestion from serial filesystem access.
 
-- Creating a predictable, low risk release process by reducing to a single Make command, automating with Docker.
+- Creating a predictable, low risk release process by reducing a series of manual steps to a single Make command and automating with Docker.
 
 - Reducing error prone workflows by replacing manual command-line operations with web UIs.
 
 - Mentoring interns.
 
 
-|
 | **Senior Software Engineer (Contract) – University of Oxford**
 | **January 2016 - August 2016 (3 renewals)**
 |
@@ -60,7 +59,7 @@ Professional Experience
 
 - Used Python, XML, Solr, SPARQL to build a family of loosely coupled modules that formed part of a message-driven workflow, enabling both engineers, and end users, to publish and index content.
 
-- Used an iterative approach to migrate content prior to the migration date, allowing issues to be flushed out ahead of time so that the ultimate migration went smoothly and successfully for the business.
+- Used an iterative approach to migrate content prior to the migration date, allowing issues to be flushed out ahead of time, ensuring a smooth and successful migration.
 
 | **Senior Software Engineer (Contract) – Jaguar Landrover**
 | **May 2015 - December 2015 (2 renewals)**
@@ -70,7 +69,7 @@ Professional Experience
 
 - Used Python/JSON/REST to implement a prototype of the "self-learning climate" feature for the SLC. Successfully delivered the prototype into user trials, allowing the business to evaluate the concept, make refinements and ultimately decide upon its applicability for production road cars.
 
-- Used an incremental test-driven approach to develop the feature with regular in-car demonstrations to stakeholders, showcasing new functionality and gathering feedback.
+- Used an incremental test-driven approach to develop the feature with regular in-car demonstrations to stakeholders, to showcase new functionality and gather feedback.
 
 - Responsible for the implementation of the Smart Traffic Alerts feature into the SLC. This feature, written in Python and Javascript/JQuery, displayed a map on the car's dashboard when traffic problems were detected ahead. It interacted with the Google Maps Directions API and Bing Routes API.
 
@@ -82,7 +81,7 @@ Professional Experience
 
 - Responsible for the design and development of the UI and Python backend, creating charts and other visualisations using AngularJS/HTML5/Bootstrap/Pandas.
 
-- Worked in two-weekly iterations to consistently deliver new features on time and within the estimates given in sprint planning meetings – using an automated deployment process for regular releases to production.
+- Worked in two-weekly iterations to consistently deliver new features on time and within the estimates given in sprint planning meetings, using an automated deployment process for regular releases to production.
 
 - Collaborated closely with domain experts on the team to ensure that complex data was conveyed in a clear and consistent way, appropriate for an audience consisting of both engineers and management.
 
