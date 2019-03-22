@@ -62,7 +62,7 @@ Professional Experience
 | **Senior Software Engineer (Contract) – Jaguar Landrover**
 | **May 2015 - December 2015 (2 renewals)**
 |
-| Worked at Jaguar Landrover Research on the Self Learning Car (SLC). The SLC system learns patterns of driver behaviour and can automatically activate in-car features depending upon who is driving the vehicle.
+| Worked at Jaguar Landrover on the Self Learning Car (SLC). The SLC system learns patterns of driver behaviour and can automatically activate in-car features depending upon who is driving the vehicle.
 |
 
 - Used Python/JSON/REST to implement a prototype of the "self-learning climate" feature for the SLC. Successfully delivered the prototype into user trials, allowing the business to evaluate the concept, make refinements and ultimately decide upon its applicability for production road cars.
