@@ -24,7 +24,9 @@ Professional Experience
 | 
 | **Key activities:**
 
-- Liaising with domain experts and other teams to define and understand requirements.
+- Working in sprints to deliver improvements across the application stack, with unit tests and an automated release process supporting the workflow.
+
+- Liaising closely with domain experts and other teams to define and understand requirements.
 
 - Reviewing team code, flagging potential issues, testing and merging pull requests.
 
@@ -32,7 +34,7 @@ Professional Experience
 
 - Improving robustness through:
 
-  - Building up comprehensive test coverage, integrating with CI.
+  - Building up comprehensive test coverage, introducing Selenium, integrating with CI.
   - Reworking long running Celery tasks to support auto-restart.
   - Introducing retry functionality into REST clients to tolerate outages.
   - Reviewing and addressing errors logged in Sentry.
@@ -40,15 +42,13 @@ Professional Experience
 
 - Optimising performance through:
 
-  - Identifying slow SQL queries, modifying Django ORM code.
+  - Identifying slow SQL queries, modifying corresponding Django ORM code.
   - Monitoring and restructuring Celery queues.
   - Parellising data ingestion from serial filesystem access.
 
 - Creating a predictable, low risk release process by reducing a series of manual steps to a single Make command and automating with Docker.
 
-- Reducing error prone workflows by replacing manual command-line operations with web UIs.
-
-- Mentoring interns.
+- Mentoring interns, assisting them with problem solving and feature design.
 
 
 | **Senior Software Engineer (Contract) – University of Oxford**
@@ -59,7 +59,6 @@ Professional Experience
 
 - Used Python, XML, Solr, SPARQL to build a family of loosely coupled modules that formed part of a message-driven workflow, enabling both engineers, and end users, to publish and index content.
 
-- Used an iterative approach to migrate content prior to the migration date, allowing issues to be flushed out ahead of time, ensuring a smooth and successful migration.
 
 | **Senior Software Engineer (Contract) – Jaguar Landrover**
 | **May 2015 - December 2015 (2 renewals)**
