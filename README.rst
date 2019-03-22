@@ -111,7 +111,7 @@ Professional Experience
 
 |
 | **Senior Software Engineer/Consultant (Contract) – Cellmark**
-| **Apr 2010 – Mar 2012, Apr 2013 – Jul 2013 (2 contracts, 6 renewals)**
+| **April 2010 – March 2012, April 2013 – July 2013 (2 contracts, 6 renewals)**
 |
 | Cellmark is a provider of DNA testing forensic and paternity services. Its customers include UK police forces, the Home Office and other government agencies.
 |
@@ -129,7 +129,7 @@ Professional Experience
 | A short contract working in an XP environment on the development of Wiley’s Online Library.
 |
 | **Senior Software Engineer (Contract) – Nortel Networks**
-| **December 2009 – April 2010 (7 renewals)**
+| **May 2007 – September 2009 (7 renewals)**
 |
 
 Responsible for the design and development of Vodafone’s pay-as-you-go phone top-up and registration service using Java, Spring, Spring-MVC, JMS in a clustered multi-tier architecture.
@@ -138,16 +138,8 @@ Responsible for the design and development of Vodafone’s pay-as-you-go phone t
 | **Senior Software Engineer (Contract) – Mobile IQ**
 | **January 2006 – March 2007 (5 renewals)**
 |
-
-Involved in the design and development of Mobile IQ’s Spring/Hibernate content delivery platform, and the technical lead for the integration of Channel 4’s content feed into the mobile portals of Vodafone and O2.
-
-|
 | **Senior Software Engineer – Volantis Limited**
 | **April 2004 – December 2005**
-|
-
-Responsible for the development of Channel 4’s mobile web portal for the launch of Big Brother 5. Development of the mobile portal homepage for the BBC Olympics.
-
 |
 | **Software Support Engineer – Elata Limited**
 | **October 2002 – April 2004**
