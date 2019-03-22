@@ -163,3 +163,10 @@ Education
 | **A Level	 (1992 - 1994)**
 | **GCSE (1990 - 1992)**
 | Hinchingbrooke School, Huntingdon, Cambs
+|
+| **GitHub**
+| https://github.com/wkeeling
+|
+| **StackOverflow**
+| https://stackoverflow.com/users/2091925/will-keeling
+
