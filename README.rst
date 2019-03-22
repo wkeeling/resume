@@ -20,13 +20,13 @@ Professional Experience
 | **Senior Software Engineer (Contract) – Toro Rosso Formula 1**
 | **October 2016 - March 2019 (4 renewals)**
 |
-| Assisted the aero dynamics team at Toro Rosso F1 deliver significant quanities of aero simulation (CFD) data to users, by developing a large, single-page web application in Python/Django, KnockoutJS, PostgreSQL, Celery, Docker.
+| Assisted the aero dynamics team at Toro Rosso F1 deliver significant quanities of aero simulation (CFD) data to users, by developing a large, single-page web application in Python, Django, Django REST Framework, KnockoutJS, PostgreSQL, Celery, Docker.
 | 
 | **Key activities:**
 
-- Working in sprints to deliver improvements across the application stack, with unit tests and an automated release process supporting the workflow.
+- Working in sprints to deliver bug fixes and new features throughout the application stack.
 
-- Liaising closely with domain experts and other teams to define and understand requirements.
+- Liaising closely with domain experts and specialist teams to understand and define requirements.
 
 - Reviewing team code, flagging potential issues, testing and merging pull requests.
 
@@ -36,15 +36,14 @@ Professional Experience
 
   - Building up comprehensive test coverage, introducing Selenium, integrating with CI.
   - Reworking long running Celery tasks to support auto-restart.
-  - Introducing retry functionality into REST clients to tolerate outages.
-  - Reviewing and addressing errors logged in Sentry.
+  - Investigating and addressing errors logged in Sentry.
   - Retaining team knowledge by introducing a wiki.
 
 - Optimising performance through:
 
-  - Identifying slow SQL queries, modifying corresponding Django ORM code.
-  - Monitoring and restructuring Celery queues.
-  - Parellising data ingestion from serial filesystem access.
+  - Identifying slow SQL queries and modifying corresponding Django ORM code.
+  - Monitoring and restructuring Celery queues for optimal liveness.
+  - Parellising filesystem I/O to take advantage of highly parallel attached storage.
 
 - Creating a predictable, low risk release process by reducing a series of manual steps to a single Make command and automating with Docker.
 
