@@ -17,6 +17,7 @@ Skills Summary
 Professional Experience
 -----------------------
 
+|
 | **Senior Software Engineer (Contract) – Toro Rosso Formula 1**
 | **October 2016 - March 2019 (4 renewals)**
 |
@@ -49,7 +50,7 @@ Professional Experience
 
 - Mentoring interns, assisting them with problem solving and feature design.
 
-
+|
 | **Senior Software Engineer (Contract) – University of Oxford**
 | **January 2016 - August 2016 (3 renewals)**
 |
@@ -58,7 +59,7 @@ Professional Experience
 
 - Used Python, XML, Solr, SPARQL to build a family of loosely coupled modules that formed part of a message-driven workflow, enabling both engineers, and end users, to publish and index content.
 
-
+|
 | **Senior Software Engineer (Contract) – Jaguar Landrover**
 | **May 2015 - December 2015 (2 renewals)**
 |
@@ -71,6 +72,7 @@ Professional Experience
 
 - Responsible for the implementation of the Smart Traffic Alerts feature into the SLC. This feature, written in Python and Javascript/JQuery, displayed a map on the car's dashboard when traffic problems were detected ahead. It interacted with the Google Maps Directions API and Bing Routes API.
 
+|
 | **Senior Software Engineer (Contract) – ARM**
 | **February 2014 – April 2015 (3 renewals)**
 |
@@ -92,6 +94,7 @@ Professional Experience
 
 - Introduced a suite of frontend and backend automated tests using Jasmine, PyTest and Jenkins. Encouraged other developers to participate in writing tests and improve coverage by advocating the benefits of testing. This helped to reduce the number of post-release "hotfixes" and gave developers more confidence in undertaking code restructuring.
 
+|
 | **Senior Software Engineer (Contract) – Nominet**
 | **July 2013 – October 2013**
 |
@@ -107,6 +110,7 @@ Professional Experience
 
 - Drove the development of a rich UI for the web-based administration tool using JQuery, AJAX, CSS and JSON - and created reusable widgets for other developers to pick up and use.
 
+|
 | **Senior Software Engineer/Consultant (Contract) – Cellmark**
 | **Apr 2010 – Mar 2012, Apr 2013 – Jul 2013 (2 contracts, 6 renewals)**
 |
@@ -119,30 +123,34 @@ Professional Experience
 
 - Identified and resolved longstanding production problems - enhancing the team's standing within the wider business.
 
+|
 | **Senior Software Engineer (Contract) – Wiley Publishing**
 | **December 2009 – April 2010**
 |
 | A short contract working in an XP environment on the development of Wiley’s Online Library.
 |
-
+|
 | **Senior Software Engineer (Contract) – Nortel Networks**
 | **December 2009 – April 2010 (7 renewals)**
 |
 
 Responsible for the design and development of Vodafone’s pay-as-you-go phone top-up and registration service using Java, Spring, Spring-MVC, JMS in a clustered multi-tier architecture.
 
+|
 | **Senior Software Engineer (Contract) – Mobile IQ**
 | **January 2006 – March 2007 (5 renewals)**
 |
 
 Involved in the design and development of Mobile IQ’s Spring/Hibernate content delivery platform, and the technical lead for the integration of Channel 4’s content feed into the mobile portals of Vodafone and O2.
 
+|
 | **Senior Software Engineer – Volantis Limited**
 | **April 2004 – December 2005**
 |
 
 Responsible for the development of Channel 4’s mobile web portal for the launch of Big Brother 5. Development of the mobile portal homepage for the BBC Olympics.
 
+|
 | **Software Support Engineer – Elata Limited**
 | **October 2002 – April 2004**
 |
