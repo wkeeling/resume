@@ -43,7 +43,7 @@ Professional Experience
 
   - Identifying slow SQL queries and modifying corresponding Django ORM code.
   - Monitoring and restructuring Celery queues for optimal liveness.
-  - Parellising filesystem I/O to take advantage of highly parallel attached storage.
+  - Parallelising filesystem I/O to take advantage of highly parallel attached storage.
 
 - Creating a predictable, low risk release process by reducing a series of manual steps to a single Make command and automating with Docker.
 
