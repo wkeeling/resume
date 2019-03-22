@@ -24,7 +24,7 @@ Professional Experience
 | 
 | **Key activities:**
 
-- Working in sprints to deliver bug fixes and new features throughout the application stack.
+- Working in sprints to deliver bug fixes and new features in the Javascript UI and Django/REST backend.
 
 - Liaising closely with domain experts and specialist teams to understand and define requirements.
 
