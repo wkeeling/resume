@@ -26,7 +26,7 @@ Professional Experience
 
 - Working in sprints to deliver bug fixes and new features in the Javascript UI and Django/REST backend.
 
-- Liaising closely with domain experts and specialist teams to understand and define requirements.
+- Liaising closely with domain experts and aero teams to understand and define requirements.
 
 - Reviewing team code, flagging potential issues, testing and merging pull requests.
 
@@ -45,7 +45,7 @@ Professional Experience
   - Monitoring and restructuring Celery queues for optimal liveness.
   - Parallelising filesystem I/O to take advantage of highly parallel attached storage.
 
-- Creating a predictable, low risk release process by reducing a series of manual steps to a single Make command and automating with Docker.
+- Creating a predictable, low risk release process by reducing a series of manual steps to a single Make command that leveraged the container based architecture.
 
 - Mentoring interns, assisting them with problem solving and feature design.
 
@@ -107,7 +107,7 @@ Professional Experience
 
 - Worked as part of a small team of experienced developers with an iterative and disciplined approach to development. Used test driven development, continuous integration and automated deployments to deliver predictable, low risk releases of working software into production at regular intervals.
 
-- Drove the development of a rich UI for the web-based administration tool using JQuery, AJAX, CSS and JSON - and created reusable widgets for other developers to pick up and use.
+- Drove the development of a rich UI for the web-based administration tool using JQuery, AJAX, CSS and JSON.
 
 |
 | **Senior Software Engineer/Consultant (Contract) – Cellmark**
