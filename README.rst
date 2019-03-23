@@ -35,7 +35,7 @@ Professional Experience
 - Improving robustness through:
 
   - Building up comprehensive test coverage, introducing Selenium, integrating with CI.
-  - Reworking long running Celery tasks to support auto-restart.
+  - Reworking long running Celery tasks to support auto-restart on failure.
   - Investigating and addressing errors logged in Sentry.
   - Retaining team knowledge by introducing a wiki.
 
