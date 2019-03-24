@@ -24,9 +24,9 @@ Professional Experience
 | 
 | **Key activities:**
 
-- Stabilised, optimised and built upon an early version of the system, which the aero team now depend upon for terabytes of data per week. 
+- Stabilised, optimised and built upon an early version of the system which the aero team now depend upon for terabytes of data per week. 
 
-- Liaised closely with domain experts and aero teams split between the UK and Italy to understand and define requirements.
+- Liaised closely with domain experts and aero teams in the UK and Italy to understand and define requirements.
 
 - Acted as quality control, reviewing team code, flagging potential issues, testing and merging pull requests.
 
