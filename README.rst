@@ -20,34 +20,34 @@ Professional Experience
 | **Senior Software Engineer (Contract) – Toro Rosso Formula 1**
 | **October 2016 - March 2019 (4 renewals)**
 |
-| Assisted the aero dynamics team at Toro Rosso F1 deliver significant quanities of aero simulation (CFD) data to users, by developing a large, single-page web application in Python, Django, Django REST Framework, KnockoutJS, PostgreSQL, Celery, Docker.
+| Enabled the aero dynamics team at Toro Rosso F1 to deliver significant quanities of aero simulation (CFD) data to users, by developing a large, single-page web application in Python, Django, Django REST Framework, KnockoutJS, PostgreSQL, Celery, Docker.
 | 
 | **Key activities:**
 
-- Working in sprints to deliver bug fixes and new features in the Javascript UI and Django/REST backend.
+- Stabilised, optimised and built upon an early version of the system, which the aero team now depend upon for terabytes of data per week. 
 
-- Liaising closely with domain experts and aero teams to understand and define requirements.
+- Liaised closely with domain experts and aero teams split between the UK and Italy to understand and define requirements.
 
-- Reviewing team code, flagging potential issues, testing and merging pull requests.
+- Acted as quality control, reviewing team code, flagging potential issues, testing and merging pull requests.
 
-- Resolving operational issues under pressure, analysing logs, inspecting processes, monitoring SQL.
+- Resolved operational issues under pressure, analysing logs, inspecting processes, monitoring SQL.
 
-- Improving robustness through:
+- Improved robustness through:
 
   - Building up comprehensive test coverage, introducing Selenium, integrating with CI.
   - Reworking long running Celery tasks to support auto-restart on failure.
-  - Investigating and addressing errors logged in Sentry.
+  - Regularly reviewing and addressing errors logged in Sentry.
   - Retaining team knowledge by introducing a wiki.
 
-- Optimising performance through:
+- Optimised performance through:
 
   - Identifying slow SQL queries and modifying corresponding Django ORM code.
   - Monitoring and restructuring Celery queues for optimal liveness.
   - Parallelising filesystem I/O to take advantage of highly parallel attached storage.
 
-- Creating a predictable, low risk release process by reducing a series of manual steps to a single Make command that leveraged the container based architecture.
+- Created a predictable, low risk release process by reducing a series of manual steps to a single Make command that leveraged the container based architecture.
 
-- Mentoring interns, assisting them with problem solving and feature design.
+- Coached interns, providing close support on problem solving and feature design.
 
 |
 | **Senior Software Engineer (Contract) – University of Oxford**
