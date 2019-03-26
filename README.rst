@@ -12,7 +12,7 @@ Skills Summary
 - **Data:** *PostgreSQL, Oracle, MongoDB, MySQL, SQL Server, REST, JSON, NumPy, Pandas*
 - **OS/Server:** *Linux, Windows, Docker, VirtualBox, Nginx, Apache, Gunicorn, CherryPy, Tomcat, Apache, Sun Grid Engine, Supervisor, Sentry*
 - **Developer toolchain:** *Git, PyCharm, Vim, Browser developer tools, cProfile, Bash, TFS, Jenkins, Maven, Ant*
-- **Agile:** *Incremental design, TDD, daily standups, sprint planning, continous integration, JIRA, Trello*
+- **Agile:** *Incremental design, TDD, daily standups, sprint planning, continuous integration, JIRA, Trello*
 
 Professional Experience
 -----------------------
@@ -20,7 +20,7 @@ Professional Experience
 | **Senior Software Engineer (Contract) – Toro Rosso Formula 1**
 | **October 2016 - March 2019 (4 renewals)**
 |
-| Enabled the aero dynamics team at Toro Rosso F1 to deliver significant quanities of aero simulation (CFD) data to users, by developing a large, single-page web application in Python, Django, Django REST Framework, KnockoutJS, PostgreSQL, Celery, Docker.
+| Enabled the aero dynamics team at Toro Rosso F1 to deliver significant quantities of aero simulation (CFD) data to users, by developing a large, single-page web application in Python, Django, Django REST Framework, KnockoutJS, PostgreSQL, Celery, Docker.
 | 
 | **Key activities:**
 
@@ -45,7 +45,7 @@ Professional Experience
   - Monitoring and restructuring Celery queues for optimal liveness.
   - Parallelising filesystem I/O to take advantage of highly parallel attached storage.
 
-- Created a predictable, low risk release process by reducing a series of manual steps to a single Make command that leveraged the container based architecture.
+- Created a predictable, low risk release process by reducing a series of manual steps to a single Make command that leveraged the container-based architecture.
 
 - Coached interns, providing close support on problem solving and feature design.
 
