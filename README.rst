@@ -24,13 +24,13 @@ Professional Experience
 | 
 | **Key activities:**
 
-- Stabilised, optimised and built upon an early version of the system which the aero team now depend upon for terabytes of data per week. 
+- Stabilised, optimised and advanced an early version of the system that the aero team now depend upon for terabytes of data per week.
 
 - Liaised closely with domain experts and aero teams in the UK and Italy to understand and define requirements.
 
-- Acted as quality control, reviewing team code, flagging potential issues, testing and merging pull requests.
+- Acted as quality control: reviewing team code, flagging potential issues, testing and merging pull requests.
 
-- Resolved operational issues under pressure, analysing logs, inspecting processes, monitoring SQL.
+- Resolved operational issues under pressure: analysing logs, inspecting processes, monitoring SQL.
 
 - Improved robustness through:
 
@@ -47,7 +47,7 @@ Professional Experience
 
 - Created a predictable, low risk release process by reducing a series of manual steps to a single Make command that leveraged the container-based architecture.
 
-- Coached interns, providing close support on problem solving and feature design.
+- Coached interns providing close support on problem solving and feature design.
 
 |
 | **Senior Software Engineer (Contract) – University of Oxford**
