@@ -24,7 +24,7 @@ Professional Experience
 | 
 | **Key activities:**
 
-- Stabilised, optimised and advanced an early version of the system that the aero team now depend upon for terabytes of data per week.
+- Owned the backend and frontend architecture, developing and stabilising a system that the aero team depend upon for terabytes of data per week.
 
 - Liaised closely with domain experts and aero teams in the UK and Italy to understand and define requirements.
 
