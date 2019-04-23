@@ -9,8 +9,8 @@ Skills Summary
 - **Languages:** *Python, Java, Javascript, HTML, CSS, SQL, XML*
 - **Frameworks:** *Django, Django Rest Framework, Celery, JQuery, KnockoutJS, AngularJS, Bootstrap*
 - **Testing:** *unittest, mock, PyTest, Selenium, JUnit, Mockito, Jasmine*
-- **Data:** *PostgreSQL, Oracle, MongoDB, MySQL, SQL Server, REST, JSON, NumPy, Pandas*
-- **OS/Server:** *Linux, Windows, Docker, VirtualBox, Nginx, Apache, Gunicorn, CherryPy, Tomcat, Apache, Sun Grid Engine, Supervisor, Sentry*
+- **Data:** *PostgreSQL, Oracle, MongoDB, MySQL, SQL Server, REST, JSON, NumPy, Pandas, Memcached*
+- **OS/Server:** *Linux, Windows, Docker, VirtualBox, Nginx, Apache, Gunicorn, CherryPy, Tomcat, Redis, Sun Grid Engine, Supervisor, Sentry*
 - **Developer toolchain:** *Git, PyCharm, Vim, Browser developer tools, cProfile, Bash, TFS, Jenkins, Maven, Ant*
 - **Agile:** *Incremental design, TDD, daily standups, sprint planning, continuous integration, JIRA, Trello*
 
