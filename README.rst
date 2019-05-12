@@ -16,7 +16,12 @@ Skills Summary
 
 Professional Experience
 -----------------------
+| **Senior Software Engineer (Contract) – Nominet**
+| **April 2019 - Current**
+|
+| Working in Nominet's cyber security team, developing new technology to disrupt and prevent cyber attacks on the wider internet.
 
+|
 | **Senior Software Engineer (Contract) – Toro Rosso Formula 1**
 | **October 2016 - March 2019 (4 renewals)**
 |
