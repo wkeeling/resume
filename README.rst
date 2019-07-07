@@ -19,7 +19,7 @@ Professional Experience
 | **Senior Software Engineer (Contract) – Nominet**
 | **April 2019 - Current**
 |
-| Working in Nominet's cyber security team, developing new technology to disrupt and prevent cyber attacks on the wider internet. Using Java 8, Spring, Docker.
+| Working in Nominet's cyber security team, developing new technology to disrupt and prevent cyber attacks on the wider internet. Liasing with the data science team to integrate a natural language processing algorithm that detects violations of an organisation's brand, into the core product. Using Java 8, Spring Boot, Spring MVC, Docker, AWS.
 
 |
 | **Senior Software Engineer (Contract) – Toro Rosso Formula 1**
