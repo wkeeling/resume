@@ -22,7 +22,7 @@ Professional Experience
 | Developing a backend API written in Python and gRPC that provides data and network management functionality for Oxford Nanopore's core devices.
 |
 
-- Working closely with the UI team on API design, looking at how API functions impact user experience, whether to use sync/async requests and streams.
+- Working closely with the UI team on API design, looking at how API functions might impact user experience, whether to use sync/async requests and streams.
 - Meeting early deadlines and delivering a working release of the software for a trade show demonstration.
 - Thoroughly testing the software at the code level, on devices, and taking into account code review recommendations.
 
