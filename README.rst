@@ -1,25 +1,35 @@
 Will Keeling
 ============
 
-Senior software engineer with fifteen years' experience building full stack web applications in Python, Java, JavaScript, CSS and HTML. A versatile, reliable member of the team who introduces discipline and rigour into the software development process. Successful in developing applications incrementally, utilising OO principles such as SOLID, with TDD and agile tools. Ability to work autonomously and remotely, in a pairing environment or in a mentoring role. Focused on delivering quality work on time and on budget.
+Senior software engineer with fifteen years' experience building applications in Python, Java, JavaScript, CSS and HTML. A versatile, reliable member of the team who introduces discipline and rigour into the software development process. Successful in developing applications incrementally, utilising OO principles such as SOLID, with TDD and agile tools. Ability to work autonomously and remotely, in a pairing environment or in a mentoring role. Focused on delivering quality work on time and on budget.
 
 Skills Summary
 --------------
 
 - **Languages:** *Python, Java, Javascript, HTML, CSS, SQL, XML*
-- **Frameworks:** *Django, Django Rest Framework, Spring, Celery, JQuery, KnockoutJS, AngularJS, Bootstrap*
+- **Frameworks:** *Django, Django Rest Framework, gRPC, Spring, Celery, JQuery, KnockoutJS, AngularJS, Bootstrap*
 - **Testing:** *unittest, mock, PyTest, Selenium, JUnit, Mockito, Jasmine*
 - **Data:** *PostgreSQL, Oracle, MongoDB, MySQL, SQL Server, REST, JSON, NumPy, Pandas, Memcached*
 - **OS/Server:** *Linux, Windows, Docker, VirtualBox, Nginx, Apache, Gunicorn, CherryPy, Tomcat, Redis, Sun Grid Engine, Supervisor, Sentry*
-- **Developer toolchain:** *Git, PyCharm, Vim, Browser developer tools, cProfile, Bash, TFS, Jenkins, Maven, Ant*
-- **Agile:** *Incremental design, TDD, daily standups, sprint planning, continuous integration, JIRA, Trello*
+- **Developer toolchain:** *Git, PyCharm, Vim, Browser developer tools, cProfile, Bash, GitLab, TFS, Jenkins, Maven, Ant*
+- **Agile:** *Incremental design, TDD, daily standups, sprint planning, code review, continuous integration, JIRA, Trello*
 
 Professional Experience
 -----------------------
-| **Senior Software Engineer (Contract) – Nominet**
-| **April 2019 - Current**
+| **Senior Software Engineer (Contract) – Oxford Nanopore**
+| **August 2019 - Current**
 |
-| Working in Nominet's cyber security team, developing new technology to disrupt and prevent cyber attacks on the wider internet. Liaising with the data science team to integrate a natural language processing algorithm that detects violations of an organisation's brand, into the core product. Using Java 8, Spring Boot, Spring MVC, Docker, AWS.
+| Developing a backend API written in Python and gRPC that provides data and network management functionality for Oxford Nanopore's core devices.
+|
+
+- Working closely with the UI team on API design, looking at how API functions impact user experience, whether to use sync/async requests and streams.
+- Meeting early deadlines and delivering a working release of the software for a trade show demonstration.
+- Thoroughly testing the software at the code level, on devices, and taking into account code review recommendations.
+
+| **Senior Software Engineer (Contract) – Nominet**
+| **April 2019 - August 2019**
+|
+| Worked in Nominet's cyber security team on developing new technology to disrupt and prevent cyber attacks on the wider internet. Liaised with the data science team to integrate a natural language processing algorithm that detects violations of an organisation's brand into the core product. Using Java 8, Spring Boot, Spring MVC, Docker, AWS.
 
 |
 | **Senior Software Engineer (Contract) – Toro Rosso Formula 1**
@@ -158,12 +168,8 @@ Responsible for the design and development of Vodafone’s pay-as-you-go phone t
 Education
 ---------
 
-| **Degree (1994 - 1997) - B.Sc. ARSM (Hons) - Class 2:1**
+| **Degree (1997) - B.Sc. ARSM (Hons) - Class 2:1**
 | Imperial College of Science, Technology and Medicine
-|
-| **A Level	 (1992 - 1994)**
-| **GCSE (1990 - 1992)**
-| Hinchingbrooke School, Huntingdon, Cambs
 |
 | **GitHub**
 | https://github.com/wkeeling
