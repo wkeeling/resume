@@ -19,13 +19,14 @@ Professional Experience
 | **Senior Software Engineer (Contract) – Oxford Nanopore**
 | **August 2019 - Current**
 |
-| Developing a backend API written in Python and gRPC that provides data and network management functionality for Oxford Nanopore's core devices.
+| Developing a backend API written in Python and gRPC that allows administrators to transfer data, configure network and perform software updates on Oxford Nanopore's DNA sequencing devices.
 |
 
-- Working closely with the UI team on API design, looking at how API functions might impact user experience, whether to use sync/async requests and streams.
-- Meeting early deadlines and delivering a working release of the software for a trade show demonstration.
-- Thoroughly testing the software at the code level, on devices, and taking into account code review recommendations.
+- Working closely with the UI team on API design, optimising user experience - e.g. whether to use sync/async requests and/or streams.
+- Delivering a working release of the software for a trade show demonstration, whilst consistently meeting deadlines early.
+- Thoroughly testing the software at the code level, on devices, and absorbing code review recommendations.
 
+|
 | **Senior Software Engineer (Contract) – Nominet**
 | **April 2019 - August 2019**
 |
@@ -43,7 +44,7 @@ Professional Experience
 
 - Liaised closely with domain experts and aero teams in the UK and Italy to understand and define requirements.
 
-- Acted as quality control: reviewing team code, flagging potential issues, testing and merging pull requests.
+- Spearheaded quality control: reviewing team code, flagging potential issues, testing and merging pull requests.
 
 - Resolved operational issues under pressure: analysing logs, inspecting processes, monitoring SQL.
 
