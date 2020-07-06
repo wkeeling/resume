@@ -17,36 +17,37 @@ Skills Summary
 Professional Experience
 -----------------------
 | **Senior Software Engineer (Contract) – Oxford Nanopore**
-| **August 2019 - Current**
+| **August 2019 - July 2020 (2 renewals)**
 |
-| Developing a backend API written in Python and gRPC that allows administrators to transfer data, configure network and perform software updates on Oxford Nanopore's DNA sequencing devices.
+| Engaged to design and implement a device administration API in Python/gRPC that enables administrators to manage DNA sequencing devices, e.g. transfer data, configure network and perform software updates.
 |
 
-- Working closely with the UI team on API design, optimising user experience - e.g. whether to use sync/async requests and/or streams.
-- Delivering a working release of the software for a trade show demonstration, whilst consistently meeting deadlines early.
-- Thoroughly testing the software at the code level, on devices, and absorbing code review recommendations.
+- Acted as SME for all aspects of API design and implementation in Python/gRPC within organisation, e.g. provided input to user interface team to optimise user experience.
+
+- Conducted rigorous software testing down to code level on devices, implemented recommendations of code review (e.g. package management tooling, WiFi & IP config optimisation).
+
+- Delivered an innovative operational software release in challenging timescales for a trade show demonstration which provided enhanced features to the administration UI.
 
 |
 | **Senior Software Engineer (Contract) – Nominet**
 | **April 2019 - August 2019**
 |
-| Worked in Nominet's cyber security team on developing new technology to disrupt and prevent cyber attacks on the wider internet. Liaised with the data science team to integrate a natural language processing algorithm that detects violations of an organisation's brand into the core product. Using Java 8, Spring Boot, Spring MVC, Docker, AWS.
+| Engaged to drive forward the effectiveness of company's cyber security by developing new tools to disrupt and prevent cyber-attacks on the wider internet. Led the development of a new DNS Hijack Detection feature in the core product to alert organisations to when their DNS names had been hijacked for e.g. phishing purposes, utilising Java 8, Spring Boot, Spring MVC, Docker, and AWS.
 
 |
 | **Senior Software Engineer (Contract) – Toro Rosso Formula 1**
 | **October 2016 - March 2019 (4 renewals)**
 |
-| Enabled the aero dynamics team at Toro Rosso F1 to deliver significant quantities of aero simulation (CFD) data to users, by developing a large, single-page web application in Python, Django, Django REST Framework, KnockoutJS, PostgreSQL, Celery, Docker.
+| Enabled the aero dynamics team at Toro Rosso F1 to deliver significant quantities of aero simulation (CFD) data to users, by developing a large, REST based web application in Python, Django, Django REST Framework, KnockoutJS, PostgreSQL, Celery, Docker.
 | 
-| **Key activities:**
 
-- Owned the backend and frontend architecture, developing and stabilising a system that the aero team depend upon for terabytes of data per week.
+- Owned the backend and frontend architecture, developing and stabilising a robust system for the aero team to facilitate processing of large quantities of critical performance data (>1Tb per week).
 
-- Liaised closely with domain experts and aero teams in the UK and Italy to understand and define requirements.
+- Coordinated key development activities with specialists (e.g. CFD experts, aero dynamics engineers) across Europe to assess and define precise requirements.
 
-- Spearheaded quality control: reviewing team code, flagging potential issues, testing and merging pull requests.
+- Spearheaded provision of effective quality control, instigated team code reviews, identified and flagged potential issues, conducted rigorous testing and merged pull-requests.
 
-- Resolved operational issues under pressure: analysing logs, inspecting processes, monitoring SQL.
+- Resolved operational issues under pressure by analysing logs, inspecting processes, monitoring SQL.
 
 - Improved robustness through:
 
@@ -69,33 +70,33 @@ Professional Experience
 | **Senior Software Engineer (Contract) – University of Oxford**
 | **January 2016 - August 2016 (3 renewals)**
 |
-| Worked as a consultant senior software engineer at the Bodleian Library to assist the organisation in migrating its publication platform to a new architecture, using Python, RabbitMQ, Linux, Git, Jenkins.
+| Engaged to support delivery of a major programme at the Bodleian Library to migrate the Publication Platform to a new architecture, using Python, RabbitMQ, Linux, Git, Jenkins.
 
 |
-| **Senior Software Engineer (Contract) – Jaguar Landrover**
+| **Senior Software Engineer (Contract) – Jaguar Land Rover**
 | **May 2015 - December 2015 (2 renewals)**
 |
-| Worked at Jaguar Landrover on the Self Learning Car (SLC). The SLC system learns patterns of driver behaviour and can automatically activate in-car features depending upon who is driving the vehicle.
+| Engaged by Jaguar Land Rover to add functionality to the Self Learning Car (SLC) by enhancing its ability to identify the driver and learn from his/her patterns of behaviour.
 |
 
-- Used Python/JSON/REST to implement a prototype of the "self-learning climate" feature for the SLC. Successfully delivered the prototype into user trials, allowing the business to evaluate the concept, make refinements and ultimately decide upon its applicability for production road cars.
+- Used Python/JSON/REST to implement a prototype of the 'self-learning climate' feature for the SLC. Successfully delivered the prototype into user trials, allowing the business to evaluate the concept, make refinements and ultimately decide upon its viability for production road cars.
 
-- Used an incremental test-driven approach to develop the feature with regular in-car demonstrations to stakeholders, to showcase new functionality and gather feedback.
+- Used an incremental test-driven approach to develop the feature with regular in-car demonstrations to key stakeholders, to showcase new functionality and to gather constructive feedback.
 
-- Responsible for the implementation of the Smart Traffic Alerts feature into the SLC. This feature, written in Python and Javascript/JQuery, displayed a map on the car's dashboard when traffic problems were detected ahead. It interacted with the Google Maps Directions API and Bing Routes API.
+- Developed and piloted an innovative 'Smart Traffic Alerts' feature (Python and Javascript / JQuery) to display a dashboard map highlighting any traffic problems ahead (via Google Maps Directions and Bing Routes APIs).
 
 |
 | **Senior Software Engineer (Contract) – ARM**
 | **February 2014 – April 2015 (3 renewals)**
 |
-| Worked with a team of GPU performance engineers helping them and their customers visualise performance data by creating a data-driven, single page web application, using AngularJS, Python and MongoDB.
+| Engaged within the GPU team (performance engineers) to create an innovative data-driven web application to allow stakeholders to visualise performance data, using AngularJS, Python, and MongoDB.
 |
 
-- Responsible for the design and development of the UI and Python backend, creating charts and other visualisations using AngularJS/HTML5/Bootstrap/Pandas.
+- Led design and development of the UI and Python backend, created comprehensive charts and similar visualisations (AngularJS, HTML5, Bootstrap, and Pandas); used sprint meetings to inform.
 
-- Worked in two-weekly iterations to consistently deliver new features on time and within the estimates given in sprint planning meetings, using an automated deployment process for regular releases to production.
+- Developed a deployment process to enable regular software releases to be rolled-out automatically.
 
-- Collaborated closely with domain experts on the team to ensure that complex data was conveyed in a clear and consistent way, appropriate for an audience consisting of both engineers and management.
+- Collaborated with domain experts (senior GPU engineers) to ensure that complex data was transmitted in a clear and consistent way and tailored to be understood by a technical and non-technical audience.
 
 - Ensured consistently good UI performance with large quantities of data through:
 
@@ -104,7 +105,7 @@ Professional Experience
   - identification of hotspots in the JavaScript/Python code using browser developer tools and Python cProfile
   - keeping the AngularJS digest cycle lightweight – e.g. using one-time bindings where appropriate
 
-- Introduced a suite of frontend and backend automated tests using Jasmine, PyTest and Jenkins. Encouraged other developers to participate in writing tests and improve coverage by advocating the benefits of testing. This helped to reduce the number of post-release "hotfixes" and gave developers more confidence in undertaking code restructuring.
+- Reduced number of post-release 'hotfixes' by writing and implementing a suite of frontend and backend automated tests (Jasmine, PyTest) and encouraged other developers to participate to increase coverage.
 
 |
 | **Senior Software Engineer (Contract) – Nominet**
@@ -115,7 +116,7 @@ Professional Experience
 | **Senior Software Engineer (Contract) – Oxford University Press**
 | **April 2012 – March 2013 (2 renewals)**
 |
-| Involved in the development of the Enterprise Access Control (EAC) single sign-on system - a large Spring/Hibernate/JEE web application integrated with existing websites across the organisation.
+| Engaged to develop and support the Enterprise Access Control (EAC) single sign-on system - a large Spring/Hibernate/JEE web application being rolled out globally across Oxford University Press's web sites.
 |
 
 - Worked as part of a small team of experienced developers with an iterative and disciplined approach to development. Used test driven development, continuous integration and automated deployments to deliver predictable, low risk releases of working software into production at regular intervals.
@@ -133,7 +134,7 @@ Professional Experience
 
 - Provided development expertise to enable the timely delivery of a late running web-based Spring/Hibernate DNA paternity project. Reduced regression and a high defect detection rate by introducing a rich suite of business-driven Selenium acceptance tests into the build.
 
-- Identified and resolved longstanding production problems - enhancing the team's standing within the wider business.
+- Identified and resolved long-standing production problems - enhancing the team's reputation within the wider business.
 
 |
 | **Senior Software Engineer (Contract) – Wiley Publishing**
