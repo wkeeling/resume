@@ -1,7 +1,7 @@
 Will Keeling
 ============
 
-Senior software engineer with fifteen years' experience building applications in Python, Java, JavaScript, CSS and HTML. A versatile, reliable member of the team who introduces discipline and rigour into the software development process. Successful in developing applications incrementally, utilising OO principles such as SOLID, with TDD and agile methods. Ability to work autonomously and remotely, in a pairing environment or in a mentoring role. Focused on delivering quality work on time and on budget.
+Senior software engineer with fifteen years' experience building applications in Python, Java, JavaScript, CSS and HTML. A versatile, reliable member of the team who introduces discipline and rigour into the software development process. Successful in developing applications incrementally, utilising OO principles such as SOLID, with TDD and agile methods. Ability to work autonomously and remotely, in a team environment or in a mentoring role. Focused on delivering quality work on time and on budget.
 
 Skills Summary
 --------------
@@ -12,10 +12,21 @@ Skills Summary
 - **Data:** *PostgreSQL, Oracle, MongoDB, MySQL, SQL Server, REST, JSON, NumPy, Pandas, Memcached*
 - **OS/Server:** *Linux, Windows, Docker, VirtualBox, Nginx, Apache, Gunicorn, CherryPy, Tomcat, Redis, Sun Grid Engine, Supervisor, Sentry*
 - **Developer toolchain:** *Git, PyCharm, Vim, Browser developer tools, cProfile, Bash, GitLab, TFS, Jenkins, Maven, Ant*
-- **Agile:** *Incremental design, TDD, daily standups, sprint planning, code review, continuous integration, JIRA, Trello*
+- **Agile:** *Incremental design, TDD, daily stand-ups, sprint planning, code review, continuous integration, JIRA, Trello*
 
 Professional Experience
 -----------------------
+| **Senior Software Engineer (Contract) – Bank of America**
+| **August 2020 - Present**
+|
+| Engaged by Electronic Trading Risk to integrate a large Python/Django web application with internal bank message feeds for receiving notifications on trading limit breaches.
+|
+
+- Worked fully remotely with a team of senior engineers to deliver event-based data stream integrations in fortnightly sprints, using Python, Django, AMPS messaging, and collaboration tools such as Slack, Bitbucket, Jira.
+
+- Drove forward several technical improvements to the application, including switching to an officially supported database backend and maintainability improvements identified by code analysis tools.
+
+|
 | **Senior Software Engineer (Contract) – Oxford Nanopore**
 | **August 2019 - July 2020 (2 renewals)**
 |
@@ -121,7 +132,7 @@ Professional Experience
 
 - Worked as part of a small team of experienced developers with an iterative and disciplined approach to development. Used test driven development, continuous integration and automated deployments to deliver predictable, low risk releases of working software into production at regular intervals.
 
-- Drove the development of a rich UI for the web-based administration tool using JQuery, AJAX, CSS and JSON.
+- Drove the development of a rich UI for the web-based administration tool using JQuery, CSS and JSON.
 
 |
 | **Senior Software Engineer/Consultant (Contract) – Cellmark**
@@ -140,7 +151,7 @@ Professional Experience
 | **Senior Software Engineer (Contract) – Wiley Publishing**
 | **December 2009 – April 2010**
 |
-| A short contract working in an XP environment on the development of Wiley’s Online Library.
+| A short contract working on the development of Wiley’s Online Library, using Java, Spring, Hibernate.
 |
 | **Senior Software Engineer (Contract) – Nortel Networks**
 | **May 2007 – September 2009 (7 renewals)**
